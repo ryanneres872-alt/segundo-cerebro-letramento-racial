@@ -70,7 +70,7 @@ Abaixo estão os testes executados com o notebook especialista para validar o cr
 
 Acesse o Notebook interativo configurado no Google NotebookLM através do link abaixo:
 
-👉 **[Clique aqui para acessar o Notebook de Letramento Racial]([https://notebook.google.com/notebook/fa23798f-3f54-4abe-857f-ede8dfc8fc67](https://notebook.google.com/notebook/fa23798f-3f54-4abe-857f-ede8dfc8f6c7))**
+👉 **[Clique aqui para acessar o Caderno de Letramento Racial](https://notebook.google.com/notebook/fa23798f-3f54-4abe-857f-ede8dfc8f6c7)**
 
 ---
 
